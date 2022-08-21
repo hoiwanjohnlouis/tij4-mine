@@ -5,7 +5,7 @@
  * using == and equals() for all references.
  ***********************************************/
 package ch03operators;
-import static net.mindview.util.Print.*;
+import static ch99mindview.net.mindview.util.Print.*;
 
 public class E06_DogsComparison {
   static void compare(Dog dog1, Dog dog2) {

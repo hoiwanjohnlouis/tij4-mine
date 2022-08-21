@@ -2,7 +2,7 @@
 package ch04controllingexecution;
 
 import static java.lang.Math.*;
-import static net.mindview.util.Print.*;
+import static ch99mindview.net.mindview.util.Print.*;
 
 public class E04_FindPrimes2 {
   public static void main(String[] args) {

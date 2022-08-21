@@ -7,7 +7,7 @@
  * Integer.toBinaryString().
  ************************************************/
 package ch03operators;
-import static net.mindview.util.Print.*;
+import static ch99mindview.net.mindview.util.Print.*;
 
 public class E12_UnsignedRightShift {
   public static void main(String[] args) {

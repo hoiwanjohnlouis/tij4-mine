@@ -6,7 +6,7 @@
  * the ones and zeroes.
  ************************************************/
 package ch04controllingexecution;
-import static net.mindview.util.Print.*;
+import static ch99mindview.net.mindview.util.Print.*;
 
 public class E05_BitwiseOperators2 {
   private static void toBinaryString(int i) {

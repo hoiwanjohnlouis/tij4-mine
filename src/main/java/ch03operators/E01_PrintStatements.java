@@ -5,7 +5,7 @@
  ***********************************************/
 package ch03operators;
 import java.util.Date;
-import static net.mindview.util.Print.*;
+import static ch99mindview.net.mindview.util.Print.*;
 
 public class E01_PrintStatements {
   public static void main(String[] args) {

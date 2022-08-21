@@ -5,7 +5,7 @@
  * description of that particular currency.
  ***********************************************/
 package ch05initializationandcleanup;
-import static net.mindview.util.Print.*;
+import static ch99mindview.net.mindview.util.Print.*;
 
 public class E22_PaperCurrencyTypesEnum2 {
   static void describe(PaperCurrencyTypes pct) {

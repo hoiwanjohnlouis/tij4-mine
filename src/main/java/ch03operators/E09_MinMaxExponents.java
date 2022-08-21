@@ -4,7 +4,7 @@
  * both float and double exponential notation.
  ***********************************************/
 package ch03operators;
-import static net.mindview.util.Print.*;
+import static ch99mindview.net.mindview.util.Print.*;
 
 public class E09_MinMaxExponents {
   public static void main(String[] args) {

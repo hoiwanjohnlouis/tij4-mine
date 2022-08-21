@@ -4,7 +4,7 @@
  * to demonstrate aliasing during method calls.
  ***********************************************/
 package ch03operators;
-import static net.mindview.util.Print.*;
+import static ch99mindview.net.mindview.util.Print.*;
 
 public class E03_Aliasing2 {
   static void f(Integral y) { y.f = 1.0f; }
